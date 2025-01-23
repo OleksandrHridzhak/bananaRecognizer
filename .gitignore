@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+/MY_data
+model_weights.h5
+archive.zip
